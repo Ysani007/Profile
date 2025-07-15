@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://giphy.com/gifs/working-coding-grind-6FWpozKBgrQD4MZwDC" align="center" style="width: 100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxheTRpdDliYmRkdDUyNjluMWh0MjNiYnpra2NlMm1tbTh4eTByZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" />
 </div>  
   
 
