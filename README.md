@@ -1,77 +1,114 @@
-<h1 align="center">Hey 👋 What's Up? I'm Yousif Sani</h1>
-
-<p align="center">
-  🎓 Mechatronics Engineering student | 💡 Project Builder | 📊 Simulation Enthusiast
-</p>
-
----
-
-### 🛠️ Tools, Technologies & Languages
-
 <div align="center">
+<img src="https://giphy.com/gifs/working-coding-grind-6FWpozKBgrQD4MZwDC" align="center" style="width: 100%" />
+</div>  
   
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50" alt="MATLAB" />
 
-  <!-- Version Control -->
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+### <div align="center"> Mechatronics Engineer dedicated to making open-source more accessible, developing transformative technology, and fostering a strong community. Join me on this </div>  
+  
 
-  <!-- Microcontroller & IDEs -->
-  <img src="https://img.shields.io/badge/PSoC%20Creator-blue?style=for-the-badge&logo=cypress" height="30" />
-  <img src="https://img.shields.io/badge/STM32CubeIDE-0C4DA2?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/MPLAB%20X%20IDE-E2231A?style=for-the-badge&logo=microchip&logoColor=white" height="30" />
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/yousifsani/basic-python-projects)  
+  
 
-  <!-- Robotics & Automation -->
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/LabVIEW-yellow?style=for-the-badge&logo=nationalinstruments&logoColor=black" height="30" />
+- 🌱 I’m currently learning  Machine Learning (ML) and Artificial Intelligence (AI)  
+  
 
-  <!-- Design & Simulation -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Ansys_logo.svg" height="50" alt="ANSYS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/National_Instruments_Multisim_Logo.png" height="50" alt="Multisim" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Proteus_logo.svg" height="50" alt="Proteus" />
-  <img src="https://img.icons8.com/color/48/solidworks.png" height="50" alt="SolidWorks" />
-  <img src="https://img.icons8.com/fluency/48/000000/arduino.png" height="50" alt="Arduino" />
+- ❓Currently focused on Machine Learning and AI — open to discussions, projects, or collaborations in this exciting field.  
+  
 
+- ⚡ Fun fact: I don’t always follow the rules — just the efficient ones.  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### SKILLS  
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 </div>
 
----
+</td><td valign="top" width="33%">
 
-### 🌐 Connect with Me
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/yousifsani" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/yousif_sani_007" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/yousif-sani" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/yousifsani008" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/yousif_sani_007" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@AcademicSpace2003" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yousifsani&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.youtube.com/@YOUR-YOUTUBE-ID" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER-ID" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
-  </a>
-  <a href="https://discord.gg/YOUR-DISCORD-ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" />
-  </a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=yousifsani&&style=flat-square" align="center" />
+</div>  
+  
 
----
+<br/>  
 
-### 📊 GitHub Stats
+<div align="center"></div>
+<br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=dracula&no-bg=false&no-frame=true&column=3&margin-w=15&margin-h=15" height="150" />
-</div>
-
----
-
-### 🎮 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/pacman-contribution-graph.svg">
-</picture>
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
